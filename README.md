@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Haddel456/Haddel456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hadeel 👋
 
-Here are some ideas to get you started:
+🎓 I'm a final-year Software Engineering student with a passion for technology and innovation. I love to code, solve problems, and learn new things every day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me:
+- 🌟 Fun, cheerful, and optimistic
+- 🎯 Passionate about software development and always eager to improve my skills
+- 🧠 Lifelong learner, constantly exploring new technologies and ideas
+
+### 🚀 Skills:
+- **Programming Languages:** JavaScript, Python, Java, TypeScript, C/C++, Assembly
+- **Frameworks:** React, Node.js, Material UI, Bootstrap
+- **Web Technologies:** HTML5, CSS
+- **Databases:** MySQL, Firebase, MongoDB
+- **Programming/Development Skills:** Frontend Development, Backend Development, Machine Learning
+- **Cloud Services:** Firebase Cloud
+---
