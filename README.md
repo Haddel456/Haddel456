@@ -9,10 +9,9 @@
 - 🧠 Lifelong learner, constantly exploring new technologies and ideas
 
 ### 🚀 Skills:
-- **Programming Languages:** JavaScript, Python, Java, TypeScript, C/C++, Assembly
+- **Programming Languages:** JavaScript, Python, Java, TypeScript, C/C++
 - **Frameworks:** React, Node.js, Material UI, Bootstrap
 - **Web Technologies:** HTML5, CSS
 - **Databases:** MySQL, Firebase, MongoDB
 - **Programming/Development Skills:** Frontend Development, Backend Development, Machine Learning
-- **Cloud Services:** Firebase Cloud
 ---
