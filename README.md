@@ -1,7 +1,7 @@
 
 # Hi there, I'm Hadeel 👋
 
-🎓 I'm a final-year Software Engineering student with a passion for technology and innovation. I love to code, solve problems, and learn new things every day!
+🎓 Software Engineering  with a passion for technology and innovation. I love to code, solve problems, and learn new things every day!
 
 ### A little about me:
 - 🌟 Fun, cheerful, and optimistic
